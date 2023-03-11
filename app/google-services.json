@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "164178231529",
+    "firebase_url": "https://iwamas2.firebaseio.com",
+    "project_id": "iwamas2",
+    "storage_bucket": "iwamas2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164178231529:android:f57c6e8c948aae29aa7078",
+        "android_client_info": {
+          "package_name": "com.example.iwamas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164178231529-to7tratspt2p6tiv9t2tjk327ct3ipjl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.iwamas",
+            "certificate_hash": "68f5beb49a79bf7e6615f3c701c2613553cbe879"
+          }
+        },
+        {
+          "client_id": "164178231529-p45ff93qkfmr78r62utpv76uk8kfs0h1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEnXBgZKUkv2I9CY2ZCX2mi5D07sh5lHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164178231529-p45ff93qkfmr78r62utpv76uk8kfs0h1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
